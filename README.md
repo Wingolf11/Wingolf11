@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juanes</h1>
-<h3 align="center">A passionate FullStack developer from Colombia</h3>
+<h3 align="center">A passionate computer science student from Colombia</h3>
 
-- 🔭 I’m currently working on **a task manager project**
+- 🔭 I’m currently working on **a task manager project** and my main goal is to become a Fullstack developer
 
 - 🌱 I’m currently learning **Elektron.js, Computer architecture and technology**
 
