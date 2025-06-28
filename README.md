@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Juanes</h1>
+<h1 align="center">Hi 👋, I'm Juan Quiroz!</h1>
 <h3 align="center">A passionate computer science student from Colombia</h3>
 
 - 🔭 I’m currently working on **a task manager project** and my main goal is to become a Fullstack developer
