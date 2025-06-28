@@ -1,11 +1,5 @@
-
-<div align="center" style="background-image: url('images/full-stack.webp'); background-size: 50% 100%; background-repeat: no-repeat; background-position: left;">
-  <h1 style="background-color: rgba(255,255,255,0.7); display: inline-block; padding: 0.5em 1em;">Hi 👋, I'm Juanes</h1>
-</div>
-
-<div align="center" style="background-image: url('images/full-stack.webp'); background-size: 50% 100%; background-repeat: no-repeat; background-position: right;">
-  <h3 style="background-color: rgba(255,255,255,0.7); display: inline-block; padding: 0.5em 1em;">A passionate computer science student from Colombia</h3>
-</div>
+<h1 align="center">Hi 👋, I'm Juanes</h1>
+<h3 align="center">A passionate computer science student from Colombia</h3>
 
 - 🔭 I’m currently working on **a task manager project** and my main goal is to become a Fullstack developer
 
